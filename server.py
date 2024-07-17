@@ -4,10 +4,7 @@ import json
 encrypted_db = {}
 
 def put(key, enc_value):
-    # if key in encrypted_db.keys():
-    #     return "key already exists"
     encrypted_db[key] = enc_value
-    # return "key and message added successfully"
 
 
 
