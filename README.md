@@ -1,4 +1,4 @@
-# encrypted Database Exercise
+# Encrypted Database Exercise
 
 ### To run the solution:
 in two separate terminals run:
@@ -13,7 +13,7 @@ received from the server will be printed into the terminal.
 (I printed the encrypted message that was returned from the server, as well as the decrypted message (so the client decrypts the messages automatically))
 
 
-Explanations:
+### Explanations:
 
 I chose to implement the task using python's sockets since they are an easy and quick solution for communication between
 a client and server applications.
