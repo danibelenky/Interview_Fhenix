@@ -23,4 +23,4 @@ Moreover, from further research I discovered that the Fernet method requires the
 this enforces (obvious) demand that the server will not be able to decrypt the message sent by the client (and it remains confidential).
 So, I believe it was a good choice for the implementation of the task.
 
-in my implementation I allowed a client to overwrite (update) a key. But it's an easy fix to block that option if needed.
+In my implementation I allowed a client to overwrite (update) a key. But it's an easy fix to block that option if needed.
